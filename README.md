@@ -142,6 +142,33 @@ This application is designed to create accessible assistants that provide client
 
  - Write a short welcome message below the avatar (e.g., “Hi, I am your assistant!”).
 
+## Fallback Logic:
+
+ ## Resilience in Agentic Flow:
+ 
+- Ensures continuity when signal confidence drops or data gaps emerge.
+  
+## System Reliability:
+
+- Preserves consistent performance across triage, forecasting, and insight generation, keeping workflows dependable under uncertain conditions.
+
+## Adaptive Recovery:
+
+- Automatically triggers fallback pathways to preserve insight delivery and stakeholder trust, even under degraded conditions.
+  
+## Prototype Alignment:
+
+- Strengthens your current prototype by safeguarding agentic processes, ensuring reliable performance across investigative and reporting workflows.
+
+## Integration Notes:
+
+## Prototype Alignment: 
+
+- Integrates LangGraph, LangChain, and LangSmith into your current prototype to orchestrate reasoning steps, manage tools and memory, and provide traceable agent behavior. This ensures resilience, transparency, and scalable insight generation across investigative and reporting workflows
+
+
+
+
 
 
 
