@@ -132,7 +132,7 @@ This application is designed to create accessible assistants that provide client
 
 - Install IPython to enable HTML rendering of the HeyGen avatar video link within your Colab notebook.
 
-- For agentic flow control and avatar behavior scripting (!pip install langgraph & langchain).
+- For agentic flow control and avatar behavior scripting (!pip install langgraph, langchain, langsmith).
 
 ## Display the Avatar:
 
