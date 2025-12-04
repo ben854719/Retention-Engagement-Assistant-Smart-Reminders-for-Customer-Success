@@ -9,5 +9,5 @@ LangGraph
 LangSmith
 LangChain
 request
-OS
+os
 google-generativeai
