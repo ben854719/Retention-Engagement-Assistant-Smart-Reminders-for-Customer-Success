@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+Cryptography
+python
+MCP Server
+LangGraph
+LangSmith
+LangChain
+request
+google-generativeai
