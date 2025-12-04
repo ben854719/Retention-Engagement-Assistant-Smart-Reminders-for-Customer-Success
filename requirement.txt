@@ -4,7 +4,7 @@ numpy
 plotly
 Cryptography
 python
-MCP Server
+MCP-Server-FastMCP
 LangGraph
 LangSmith
 LangChain
