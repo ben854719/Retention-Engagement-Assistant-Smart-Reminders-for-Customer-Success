@@ -44,6 +44,16 @@ This application is designed to create accessible assistants that provide client
   
 - Ensures trust and compliance in client‑facing applications.
 
+## Repistory:
+
+my-repo/
+│
+├── streamlit_app.py   ✅ main entry file
+├── requirements.txt   ✅ dependencies
+├── packages.txt       ✅ system packages (optional)
+├── runtime.txt        ✅ Python version (optional)
+└── other_scripts/     (helper modules, assets, etc.)
+
 ## Installation Requirements:
 
 - Ensure you have the following software and frameworks installed.
