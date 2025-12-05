@@ -185,7 +185,7 @@ This project is a Streamlit-based prototype for smart reminders and customer suc
 
 ## Launch App:
 
-- streamlit run streamlit_app.py.
+- streamlit streamlit_app.py.
 
 
 
