@@ -166,6 +166,28 @@ This application is designed to create accessible assistants that provide client
 
 - Integrates LangGraph, LangChain, and LangSmith into your current prototype to orchestrate reasoning steps, manage tools and memory, and provide traceable agent behavior. This ensures resilience, transparency, and scalable insight generation across investigative and reporting workflows
 
+## Deploy on Streamlit:
+
+# Retention & Engagement Assistant: Smart Reminders for Customer Success.
+
+This project is a Streamlit-based prototype for smart reminders and customer success engagement.
+
+## How to run locally.
+
+## Clone the repository:
+
+- git clone https://github.com/ben854719/Retention-Engagement-Assistant-Smart-Reminders-for-Customer-Success.git.
+  cd Retention-Engagement-Assistant-Smart-Reminders-for-Customer-Success.
+
+## Install dependencies on Google Colab:
+
+- !pip install -r requirements.txt
+
+## Launch App:
+
+- streamlit run streamlit_app.py.
+
+
 
 
 
