@@ -169,5 +169,5 @@ Original file is located at
 #   });
 # }
 # 
-# // Example call
+# // Email Reminder.
 # sendEmailReminder({ name: "Ben", email: "nguyenben85@gmail.com" }, "renewal");
