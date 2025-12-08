@@ -48,11 +48,10 @@ This application is designed to create accessible assistants that provide client
 
 my-repo/
 
-├── streamlit_app.py   ✅ main entry file
-├── requirements.txt   ✅ dependencies
-├── packages.txt       ✅ system packages (optional)
-├── runtime.txt        ✅ Python version (optional)
-└── other_scripts/     (helper modules, assets, etc.)
+- streamlit_app.py   ✅ main entry file
+- requirements.txt   ✅ dependencies
+- packages.txt       ✅ system packages (optional)
+- runtime.txt        ✅ Python version (optional)
 
 ## Installation Requirements:
 
@@ -168,19 +167,17 @@ my-repo/
   
 ## Prototype Alignment:
 
-- Strengthens your current prototype by safeguarding agentic processes, ensuring reliable performance across investigative and reporting workflows.
+- Strengthens the current prototype by safeguarding agentic processes, ensuring reliable performance across investigative and reporting workflows.
 
 ## Integration Notes:
 
 ## Prototype Alignment: 
 
-- Integrates LangGraph, LangChain, and LangSmith into your current prototype to orchestrate reasoning steps, manage tools and memory, and provide traceable agent behavior. This ensures resilience, transparency, and scalable insight generation across investigative and reporting workflows
+- Integrates LangGraph, LangChain, and LangSmith into your current prototype to orchestrate reasoning steps, manage tools and memory, and provide traceable agent behavior.    This ensures resilience, transparency, and scalable insight generation across investigative and reporting workflows.
 
 ## Deploy on Streamlit:
 
-# Retention & Engagement Assistant: Smart Reminders for Customer Success.
-
-This project is a Streamlit-based prototype for smart reminders and customer success engagement.
+- This project is a Streamlit-based prototype for smart reminders and customer success engagement.
 
 ## How to run locally.
 
