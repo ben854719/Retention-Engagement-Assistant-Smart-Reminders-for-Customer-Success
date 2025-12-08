@@ -3,7 +3,7 @@ pandas
 numpy
 plotly
 Cryptography
-python
+python 3.9
 MCP-Server-FastMCP
 LangGraph
 LangSmith
