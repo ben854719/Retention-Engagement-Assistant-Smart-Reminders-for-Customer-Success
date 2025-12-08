@@ -2,7 +2,7 @@
 
 ## Objective:
 
-This application is designed to create accessible assistants that provide clients with clear reminders, especially when critical thresholds are reached. Built with Python, Streamlit, and Plotly widgets, it helps users track bills, medication schedules, and health status, issuing alerts for important changes. The application will be upgraded to include AI avatars that deliver updates in plain language, adapting their tone to offer reassurance via voice and video. A Node.js backend manages reminders, triggers events, and delivers avatars for scalable scheduling and smooth communication. Sensitive data is protected by RS256 encryption to ensure secure authentication and privacy. Success will be measured by response rate to reminders (target: over 70%), fewer missed bills or medications (aiming for a 40% decrease), acknowledgment of health alerts (80%+), and high user satisfaction (4.5 out of 5). Ultimately, the objective is to deliver employer‑ready, socially impactful applications that blend automation, multimodal empathy, strong security, and human‑centered design.
+This application is designed to create accessible assistants that provide clients with clear reminders, especially when critical thresholds are reached. Built with Python, and Plotly widgets, it helps users track bills, medication schedules, and health status, issuing alerts for important changes. The application will be upgraded to include AI avatars that deliver updates in plain language, adapting their tone to offer reassurance via voice and video. A Node.js backend manages reminders, triggers events, and delivers avatars for scalable scheduling and smooth communication. Sensitive data is protected by RS256 encryption to ensure secure authentication and privacy. Success will be measured by response rate to reminders (target: over 70%), fewer missed bills or medications (aiming for a 40% decrease), acknowledgment of health alerts (80%+), and high user satisfaction (4.5 out of 5). Ultimately, the objective is to deliver employer‑ready, socially impactful applications that blend automation, multimodal empathy, strong security, and human‑centered design.
 
 ## Video of the Project:
 
@@ -43,15 +43,6 @@ This application is designed to create accessible assistants that provide client
 - Protects sensitive information with secure authentication and privacy safeguards.
   
 - Ensures trust and compliance in client‑facing applications.
-
-## Repistory:
-
-my-repo/
-
-- streamlit_app.py   ✅ main entry file
-- requirements.txt   ✅ dependencies
-- packages.txt       ✅ system packages (optional)
-- runtime.txt        ✅ Python version (optional)
 
 ## Installation Requirements:
 
@@ -174,25 +165,6 @@ my-repo/
 ## Prototype Alignment: 
 
 - Integrates LangGraph, LangChain, and LangSmith into your current prototype to orchestrate reasoning steps, manage tools and memory, and provide traceable agent behavior.    This ensures resilience, transparency, and scalable insight generation across investigative and reporting workflows.
-
-## Deploy on Streamlit:
-
-- This project is a Streamlit-based prototype for smart reminders and customer success engagement.
-
-## How to run locally.
-
-## Clone the repository:
-
-- git clone https://github.com/ben854719/Retention-Engagement-Assistant-Smart-Reminders-for-Customer-Success.git.
-  cd Retention-Engagement-Assistant-Smart-Reminders-for-Customer-Success.
-
-## Install dependencies on Google Colab:
-
-- !pip install -r requirements.txt
-
-## Launch App:
-
-- streamlitrun_app.py.
 
 
 
