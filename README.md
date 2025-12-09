@@ -6,7 +6,7 @@ This application is designed to create accessible assistants that provide client
 
 ## Video of the Project:
 
-https://github.com/user-attachments/assets/4df06203-170d-45e6-8311-21776db68049
+https://github.com/user-attachments/assets/aded80ca-b7f6-4d04-806c-783c4f1032a6
 
 ## Key Features:
 
