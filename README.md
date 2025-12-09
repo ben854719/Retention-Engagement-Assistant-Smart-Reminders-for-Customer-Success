@@ -6,6 +6,8 @@ This application is designed to create accessible assistants that provide client
 
 ## Video of the Project:
 
+https://github.com/user-attachments/assets/4df06203-170d-45e6-8311-21776db68049
+
 ## Key Features:
 
 ## Threshold‑Aware Alerts:
